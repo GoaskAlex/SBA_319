@@ -43,8 +43,8 @@
 
         //Query
         const card = await Yugi.findById
-        ('655da09e2826dd7cbf3acccc','name cardType').exec();
-        console.log(card);
+        // ('655da09e2826dd7cbf3acccc','name cardType').exec();
+        // console.log(card);
         
         //Delete
         // const yugi = await Yugi.deleteOne({_id: "655da0d36638fd7b830306d0"})
